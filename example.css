@@ -1,0 +1,17 @@
+.Example{
+    background-color: aliceblue;
+    padding: 10px;
+}
+pre {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.it {
+    color: white; 
+    background-color: lime;
+    width: fit-content;
+}
+h4 {
+    height: 0px; width: px;
+}

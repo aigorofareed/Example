@@ -1,0 +1,14 @@
+div{
+    background-color: aliceblue;
+    padding: 15px;
+}
+pre{
+    border-style: solid;
+    border-width: 5px; 
+    border-right: 4px;
+    border-top: none;
+    border-bottom: none;
+    border-color: green;
+    background-color: whitesmoke;
+    padding: 5px;
+}
